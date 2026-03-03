@@ -1,2 +1,2 @@
 # Gouri--demo
-This is my first Git repositary
+This is my first Git repository
